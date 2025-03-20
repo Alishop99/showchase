@@ -8,8 +8,11 @@ Proyek ini adalah aplikasi berbasis Next.js untuk menampilkan koleksi NFT atau s
 
 ## Cara Menjalankan
 1. Clone repository: `git clone https://github.com/Alishop99/showchase.git`
-2. Install dependensi: `yarn install`
-3. Jalankan: `yarn dev`
+2. Salin `.env.example` ke `.env`: `cp .env.example .env`
+3. Edit `.env` dengan Candy Machine ID milikmu.
+4. Install dependensi: `yarn install`
+5. Jalankan: `yarn dev`
+
 
 ## Kontribusi
 <<<<<<< HEAD
