@@ -12,4 +12,8 @@ Proyek ini adalah aplikasi berbasis Next.js untuk menampilkan koleksi NFT atau s
 3. Jalankan: `yarn dev`
 
 ## Kontribusi
+<<<<<<< HEAD
 Silakan fork dan buat pull request untuk berkontribusi!
+=======
+Silakan fork dan buat pull request untuk berkontribusi!
+>>>>>>> 2e09d5d4e8fc4118d7363a67192876784cd38a0b
