@@ -1,0 +1,64 @@
+.main {
+  text-align: center;
+  padding: 20px;
+}
+
+.countsContainer {
+  margin: 20px 0;
+  font-size: 1.2em;
+}
+
+.mintBtn {
+  background-color: #0070f3;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.mintBtn:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.loadingDots {
+  margin-top: 10px;
+}
+
+.mintMsg {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  position: relative;
+}
+
+.mintMsgClose {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  border: none;
+  background: none;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+.nftGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.nftCard {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.nftImage {
+  object-fit: cover;
+  border-radius: 5px;
+}
